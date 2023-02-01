@@ -1,0 +1,8 @@
+<suite name="config" verbose="1" >
+<parameter name="browser"  value="Android"/>
+<test name="N11MobilTestOtomasyonProjesi">
+<classes>
+    <class name="testRunners.runner"/>
+</classes>
+</test>
+        </suite>
